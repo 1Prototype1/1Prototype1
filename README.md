@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-  :man_technologist: I’m currently working on [Hexbot](https://github.com/1Prototype1/HexBot)
+- 🌱 I’m currently learning about life
+- 💬 Ask me about Discord bots, Python, Hacks and life
+- 📫 How to reach me: Discord: [Prototype]#7731 Email: astonlopes1999@gmail.com
+
+![Aston's github stats](https://github-readme-stats.vercel.app/api?username=1Prototype1&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Prototype1&theme=tokyonight&langs_count=10&layout=compact)
