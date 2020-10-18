@@ -2,7 +2,7 @@
 - ✨I’m <b>Aston Lopes</b>. Pursuing bachelor's in computer science engineering.
 - 👨🏻‍💻 I’m currently working on [Hexbot](https://github.com/1Prototype1/HexBot) and its HexAPI
 - 🌱 I learn something new everyday
-- 💬 Ask me about Programming, Python, Discord bots, Hacks and other Geeky stuff
+- 💬 Ask me about Programming, Discord bots, Hacks and other Geeky stuff
 
 
 ### Contact:<br>
