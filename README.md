@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/astonlopes1999@gmail.com-141321?style=flat&logo=gmail)](mailto:astonlopes1999@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Aston%20Lopes-141321?style=flat&logo=Linkedin)](https://www.linkedin.com/in/astonlopes/)
 [![HackerRank](https://img.shields.io/badge/1Prototype1-141321?style=flat&logo=HackerRank)](https://www.hackerrank.com/1Prototype1)
-[![Steam](https://img.shields.io/badge/Prototype-141321?style=flat&logo=Steam)](https://steamcommunity.com/id/thehexcoder)
+[![Steam](https://img.shields.io/badge/Prototype-141321?style=flat&logo=Steam&logoColor=blue)](https://steamcommunity.com/id/thehexcoder)
 
 
 ### Languages:<br>
@@ -26,7 +26,7 @@
 ![C](https://img.shields.io/badge/C-141321?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/C++-141321?style=flat&logo=C%2B%2B)
 ![Kotlin](https://img.shields.io/badge/Kotlin-141321?style=flat&logo=Kotlin)
-![Ruby](https://img.shields.io/badge/Ruby-141321?style=flat&logo=Ruby)
+![Ruby](https://img.shields.io/badge/Ruby-141321?style=flat&logo=Ruby&logoColor=red)
 
 ![English](https://img.shields.io/badge/English-141321?style=flat&logo=Google+Translate)
 ![Hindi](https://img.shields.io/badge/Hindi-141321?style=flat&logo=Google+Translate)
@@ -36,8 +36,8 @@
 
 ### Technologies:<br>
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-141321?style=flat&logo=Google+Cloud)
-![AmazonAWS](https://img.shields.io/badge/AmazonAWS-141321?style=flat&logo=Amazon+AWS)
-![Oracle](https://img.shields.io/badge/Oracle-141321?style=flat&logo=Oracle)
+![AmazonAWS](https://img.shields.io/badge/AmazonAWS-141321?style=flat&logo=Amazon+AWS&logoColor=yellow)
+![Oracle](https://img.shields.io/badge/Oracle-141321?style=flat&logo=Oracle&logoColor=red)
 ![Flask](https://img.shields.io/badge/Flask-141321?style=flat&logo=Flask)
 ![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat&logo=MySQL)
 ![Heroku](https://img.shields.io/badge/Heroku-141321?style=flat&logo=Heroku)
@@ -48,15 +48,15 @@
 ### Tools:<br>
 ![Git](https://img.shields.io/badge/Git-141321?style=flat&logo=Git)
 ![Jupyter](https://img.shields.io/badge/Jupyter-141321?style=flat&logo=Jupyter)
-![Office](https://img.shields.io/badge/Office-141321?style=flat&logo=Microsoft+Office)
-![Adobe](https://img.shields.io/badge/Adobe-141321?style=flat&logo=Adobe)
-![Workstation](https://img.shields.io/badge/Workstation-141321?style=flat&logo=vmware)
+![Office](https://img.shields.io/badge/Office-141321?style=flat&logo=Microsoft+Office&logoColor=orange)
+![Adobe](https://img.shields.io/badge/Adobe-141321?style=flat&logo=Adobe&logoColor=red)
+![Workstation](https://img.shields.io/badge/Workstation-141321?style=flat&logo=vmware&logoColor=white)
 
 
 ### Startup Programs:<br>
 ![SublimeText](https://img.shields.io/badge/SublimeText-141321?style=flat&logo=Sublime+Text)
 ![Discord](https://img.shields.io/badge/Discord-141321?style=flat&logo=Discord)
-![Steam](https://img.shields.io/badge/Steam-141321?style=flat&logo=Steam)
+![Steam](https://img.shields.io/badge/Steam-141321?style=flat&logo=Steam&logoColor=blue)
 ![Spotify](https://img.shields.io/badge/Spotify-141321?style=flat&logo=Spotify)
 ![PowerShell](https://img.shields.io/badge/PowerShell-141321?style=flat&logo=PowerShell)
 ![Bash](https://img.shields.io/badge/Bash-141321?style=flat&logo=GNU+Bash)
