@@ -3,7 +3,7 @@
 </p>
 
 - ✨I’m <b>Aston Lopes</b>. Pursuing bachelor's in computer science engineering.
-- 👨🏻‍💻 I’m currently working on [Hexbot](https://github.com/1Prototype1/HexBot) and its HexAPI
+- 👨🏻‍💻 I’m currently working on [HexBot](https://github.com/1Prototype1/HexBot) and its HexAPI
 - 🌱 I learn something new everyday
 - 💬 Ask me about Programming, Discord bots, Hacks and other Geeky stuff
 
@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/Java-141321?style=flat&logo=Java)
 ![CSS](https://img.shields.io/badge/CSS-141321?style=flat&logo=CSS3)
 ![HTML](https://img.shields.io/badge/HTML-141321?style=flat&logo=HTML5)
-![php](https://img.shields.io/badge/php-141321?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/PHP-141321?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-141321?style=flat&logo=Javascript)
 ![C](https://img.shields.io/badge/C-141321?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/C++-141321?style=flat&logo=C%2B%2B)
@@ -61,9 +61,6 @@
 ![Spotify](https://img.shields.io/badge/Spotify-141321?style=flat&logo=Spotify)
 ![PowerShell](https://img.shields.io/badge/PowerShell-141321?style=flat&logo=PowerShell)
 ![Bash](https://img.shields.io/badge/Bash-141321?style=flat&logo=GNU+Bash)
-
-
-
 
 
 ![Aston's github stats](https://github-readme-stats.vercel.app/api?username=1Prototype1&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
