@@ -41,6 +41,7 @@
 ![Flask](https://img.shields.io/badge/Flask-141321?style=flat&logo=Flask)
 ![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat&logo=MySQL)
 ![Heroku](https://img.shields.io/badge/Heroku-141321?style=flat&logo=Heroku)
+![Repl.it](https://img.shields.io/badge/Repl.it-141321?style=flat&logo=Repl.it)
 ![Magisk](https://img.shields.io/badge/Magisk-141321?style=flat&logo=Magisk)
 ![Android](https://img.shields.io/badge/Android-141321?style=flat&logo=Android)
 
