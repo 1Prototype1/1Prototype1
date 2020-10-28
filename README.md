@@ -11,7 +11,7 @@
 ### Contact:<br>
 [![Discord](https://img.shields.io/badge/[Prototype]%237731-141321?style=flat&logo=discord)](https://discord.com)
 [![Gmail](https://img.shields.io/badge/astonlopes1999@gmail.com-141321?style=flat&logo=gmail)](mailto:astonlopes1999@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Aston%20Lopes-141321?style=flat&logo=Linkedin)](https://www.linkedin.com/in/astonlopes/)
+[![Linkedin](https://img.shields.io/badge/Aston%20Lopes-141321?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/astonlopes/)
 [![HackerRank](https://img.shields.io/badge/1Prototype1-141321?style=flat&logo=HackerRank)](https://www.hackerrank.com/1Prototype1)
 [![Steam](https://img.shields.io/badge/Prototype-141321?style=flat&logo=Steam&logoColor=blue)](https://steamcommunity.com/id/thehexcoder)
 
