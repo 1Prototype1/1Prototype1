@@ -27,7 +27,7 @@
 ![C++](https://img.shields.io/badge/C++-141321?style=flat&logo=C%2B%2B)
 ![Kotlin](https://img.shields.io/badge/Kotlin-141321?style=flat&logo=Kotlin)
 ![Ruby](https://img.shields.io/badge/Ruby-141321?style=flat&logo=Ruby&logoColor=red)
-
+![Dart](https://img.shields.io/badge/Dart-141321?style=flat&logo=Dart&logoColor=0175C2)
 
 ![English](https://img.shields.io/badge/English-141321?style=flat&logo=Google+Translate)
 ![Hindi](https://img.shields.io/badge/Hindi-141321?style=flat&logo=Google+Translate)
