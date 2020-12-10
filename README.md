@@ -40,13 +40,13 @@
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-141321?style=flat&logo=Amazon+AWS&logoColor=yellow)
 ![Oracle](https://img.shields.io/badge/Oracle-141321?style=flat&logo=Oracle&logoColor=red)
 ![Flask](https://img.shields.io/badge/Flask-141321?style=flat&logo=Flask)
-![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat&logo=MySQL)
-![Heroku](https://img.shields.io/badge/Heroku-141321?style=flat&logo=Heroku)
 ![Repl.it](https://img.shields.io/badge/Repl.it-141321?style=flat&logo=Repl.it)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-141321?style=flat&logo=Cloudflare)
-![Magisk](https://img.shields.io/badge/Magisk-141321?style=flat&logo=Magisk)
+![Heroku](https://img.shields.io/badge/Heroku-141321?style=flat&logo=Heroku)
 ![Android](https://img.shields.io/badge/Android-141321?style=flat&logo=Android)
 ![Flutter](https://img.shields.io/badge/Flutter-141321?style=flat&logo=Flutter&logoColor=46D1FD)
+![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat&logo=MySQL)
+![Magisk](https://img.shields.io/badge/Magisk-141321?style=flat&logo=Magisk)
 
 
 ### Tools:<br>
