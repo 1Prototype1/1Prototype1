@@ -30,8 +30,8 @@
 ![Ruby](https://img.shields.io/badge/Ruby-141321?style=flat&logo=Ruby&logoColor=red)
 
 ![English](https://img.shields.io/badge/English-141321?style=flat&logo=Google+Translate)
-![Hindi](https://img.shields.io/badge/Hindi-141321?style=flat&logo=Google+Translate)
 ![Marathi](https://img.shields.io/badge/Marathi-141321?style=flat&logo=Google+Translate)
+![Hindi](https://img.shields.io/badge/Hindi-141321?style=flat&logo=Google+Translate)
 ![Spanish](https://img.shields.io/badge/Spanish-141321?style=flat&logo=Google+Translate)
 
 
@@ -46,6 +46,7 @@
 ![Android](https://img.shields.io/badge/Android-141321?style=flat&logo=Android)
 ![Flutter](https://img.shields.io/badge/Flutter-141321?style=flat&logo=Flutter&logoColor=46D1FD)
 ![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat&logo=MySQL)
+![Ethereum](https://img.shields.io/badge/Ethereum-141321?style=flat&logo=Ethereum)
 ![Magisk](https://img.shields.io/badge/Magisk-141321?style=flat&logo=Magisk)
 
 
