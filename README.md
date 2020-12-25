@@ -1,5 +1,6 @@
 <p align="center">
   <img align="center" src="images/welcome.gif">
+  <img align="center" src="https://i.ibb.co/JsFpBfj/happy-holidays.png">
 </p>
 
 - ✨I’m <b>Aston Lopes</b>. Pursuing bachelor's in computer science engineering.
