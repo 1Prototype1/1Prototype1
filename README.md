@@ -44,6 +44,7 @@
 ![Repl.it](https://img.shields.io/badge/Repl.it-141321?style=flat&logo=Repl.it)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-141321?style=flat&logo=Cloudflare)
 ![Heroku](https://img.shields.io/badge/Heroku-141321?style=flat&logo=Heroku)
+![AIOHTTP](https://img.shields.io/badge/AIOHTTP-141321?style=flat&logo=AIOHTTP&logoColor=2C5BB4)
 ![Android](https://img.shields.io/badge/Android-141321?style=flat&logo=Android)
 ![Flutter](https://img.shields.io/badge/Flutter-141321?style=flat&logo=Flutter&logoColor=46D1FD)
 ![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat&logo=MySQL)
