@@ -46,6 +46,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-141321?style=flat&logo=Heroku)
 ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-141321?style=flat&logo=AIOHTTP&logoColor=2C5BB4)
 ![FastAPI](https://img.shields.io/badge/FastAPI-141321?style=flat&logo=FastAPI)
+![Jinja2](https://img.shields.io/badge/Jinja2-141321?style=flat&logo=Jinja&logoColor=B41717)
 ![Flutter](https://img.shields.io/badge/Flutter-141321?style=flat&logo=Flutter&logoColor=46D1FD)
 ![Android](https://img.shields.io/badge/Android-141321?style=flat&logo=Android)
 ![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat&logo=MySQL)
