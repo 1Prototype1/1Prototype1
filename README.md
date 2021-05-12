@@ -4,7 +4,7 @@
 </p>
 
 - ✨I’m <b>Aston Lopes</b>. Pursuing bachelor's in computer science engineering.
-- 👨🏻‍💻 I’m currently working on VoteBlocks, HexBot and HexAPI
+- 👨🏻‍💻 I’m currently interested and working on VoteBlocks(Blockchain based voting), Cloud apps, APIs and serverless apps
 - 🌱 I learn something new everyday
 - 💬 Ask me about Programming, Discord bots, Hacks and other Geeky stuff
 
