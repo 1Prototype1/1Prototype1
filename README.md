@@ -27,6 +27,7 @@
 ![C](https://img.shields.io/badge/C-141321?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/C++-141321?style=flat&logo=C%2B%2B)
 ![Dart](https://img.shields.io/badge/Dart-141321?style=flat&logo=Dart&logoColor=0175C2)
+![Solidity](https://img.shields.io/badge/Solidity-141321?style=flat&logo=Solidity)
 ![Kotlin](https://img.shields.io/badge/Kotlin-141321?style=flat&logo=Kotlin)
 ![Ruby](https://img.shields.io/badge/Ruby-141321?style=flat&logo=Ruby&logoColor=red)
 
@@ -50,6 +51,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-141321?style=flat&logo=Flutter&logoColor=46D1FD)
 ![Android](https://img.shields.io/badge/Android-141321?style=flat&logo=Android)
 ![MySQL](https://img.shields.io/badge/MySQL-141321?style=flat&logo=MySQL)
+![IPFS](https://img.shields.io/badge/IPFS-141321?style=flat&logo=IPFS)
 ![Ethereum](https://img.shields.io/badge/Ethereum-141321?style=flat&logo=Ethereum)
 ![Magisk](https://img.shields.io/badge/Magisk-141321?style=flat&logo=Magisk)
 
