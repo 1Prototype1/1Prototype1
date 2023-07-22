@@ -73,5 +73,5 @@
 ![Bash](https://img.shields.io/badge/Bash-141321?style=flat&logo=GNU+Bash)
 
 
-![Aston's github stats](https://github-stats.hexcode.ml/?username=1Prototype1&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-stats.hexcode.ml/top-langs?username=1Prototype1&theme=tokyonight&langs_count=10&layout=compact)
+![Aston's github stats](https://github-stats.hexcode.tk/?username=1Prototype1&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![Top Langs](https://github-stats.hexcode.tk/top-langs?username=1Prototype1&theme=tokyonight&langs_count=10&layout=compact)
