@@ -3,10 +3,10 @@
   <img align="center" src="https://i.ibb.co/prY2xnc/stayhome.png">
 </p>
 
-- ✨I’m <b>Aston Lopes</b>. Pursuing bachelor's in computer science engineering.
-- 👨🏻‍💻 I’m currently interested and working on Decentralized web(DApps & IPFS), Cloud apps, APIs and serverless apps
+- ✨I’m <b>Aston Lopes</b>. I am a computer science engineer and currently working as a Senior software engineer in an IT company.
+- 👨🏻‍💻 I’m currently interested and working on Cloud apps, APIs and serverless applications.
 - 🌱 I learn something new everyday
-- 💬 Ask me about DWeb, Discord bots, Programming, Hacks and other Geeky stuff
+- 💬 Ask me about Web3, Bots, Programming, Hacks and other Geeky stuff
 
 
 ### Contact:<br>
@@ -19,11 +19,11 @@
 
 ### Languages:<br>
 ![Python](https://img.shields.io/badge/Python-141321?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/Java-141321?style=flat&logo=Java)
-![CSS](https://img.shields.io/badge/CSS-141321?style=flat&logo=CSS3)
-![HTML](https://img.shields.io/badge/HTML-141321?style=flat&logo=HTML5)
-![PHP](https://img.shields.io/badge/PHP-141321?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-141321?style=flat&logo=Javascript)
+![OpenJDK](https://img.shields.io/badge/Java-141321?style=flat&logo=OpenJDK)
+![PHP](https://img.shields.io/badge/PHP-141321?style=flat&logo=php)
+![HTML](https://img.shields.io/badge/HTML-141321?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-141321?style=flat&logo=CSS3)
 ![C](https://img.shields.io/badge/C-141321?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/C++-141321?style=flat&logo=C%2B%2B)
 ![Dart](https://img.shields.io/badge/Dart-141321?style=flat&logo=Dart&logoColor=0175C2)
@@ -42,7 +42,6 @@
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-141321?style=flat&logo=Amazon+AWS&logoColor=yellow)
 ![Oracle](https://img.shields.io/badge/Oracle-141321?style=flat&logo=Oracle&logoColor=red)
 ![Flask](https://img.shields.io/badge/Flask-141321?style=flat&logo=Flask)
-![Repl.it](https://img.shields.io/badge/Repl.it-141321?style=flat&logo=Repl.it)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-141321?style=flat&logo=Cloudflare)
 ![Heroku](https://img.shields.io/badge/Heroku-141321?style=flat&logo=Heroku)
 ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-141321?style=flat&logo=AIOHTTP&logoColor=2C5BB4)
@@ -54,6 +53,8 @@
 ![IPFS](https://img.shields.io/badge/IPFS-141321?style=flat&logo=IPFS)
 ![Ethereum](https://img.shields.io/badge/Ethereum-141321?style=flat&logo=Ethereum)
 ![Magisk](https://img.shields.io/badge/Magisk-141321?style=flat&logo=Magisk)
+![WordPress](https://img.shields.io/badge/WordPress-141321?style=flat&logo=WordPress)
+![PowerPlatform](https://img.shields.io/badge/PowerPlatform-141321?style=flat&logo=Power+Apps)
 
 
 ### Tools:<br>
@@ -73,5 +74,5 @@
 ![Bash](https://img.shields.io/badge/Bash-141321?style=flat&logo=GNU+Bash)
 
 
-![Aston's github stats](https://github-stats.hexcode.tk/?username=1Prototype1&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-stats.hexcode.tk/top-langs?username=1Prototype1&theme=tokyonight&langs_count=10&layout=compact)
+![Aston's github stats](https://ghstats.hexcode.eu.org/?username=1Prototype1&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![Top Langs](https://ghstats.hexcode.eu.org/top-langs?username=1Prototype1&theme=tokyonight&langs_count=10&layout=compact)
